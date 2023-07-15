@@ -3,10 +3,10 @@ import telegram.ext
 import openai
 
 # Configura el token de acceso de tu bot de Telegram
-bot_token = "6244579674:AAHJnfrVqVon6cynpSL4fsqwHY23F0tlMs8"
+bot_token = "aqui va el token"
 
 # Configura tu clave de API de GPT-3
-openai.api_key = "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"
+openai.api_key = "aqui va el token"
 
 # Define una función para manejar los mensajes que reciba tu bot
 def handle_message(update, context):
