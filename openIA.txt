@@ -1,0 +1,8 @@
+token api openIA
+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
+
+boot telegram
+Supremo
+Supremo100_bot
+Use this token to access the HTTP API:
+6244579674:AAHJnfrVqVon6cynpSL4fsqwHY23F0tlMs8
